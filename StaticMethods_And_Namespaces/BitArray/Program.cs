@@ -8,8 +8,10 @@ using System.Threading.Tasks;
     {
         static void Main(string[] args)
         {
-            BitArray32 bits = new BitArray32(54);
-        bits.SetBitAt(1, 0);
-        Console.WriteLine(bits.GetBit(0));
+            BitArray32 bits = new BitArray32(53);
+        BitArray32 a = new BitArray32(56);
+        BitArray32 b = new BitArray32(56);
+        //bits.SetBitAt(1, 5);
+        Console.WriteLine(a + b);
         }
     } 

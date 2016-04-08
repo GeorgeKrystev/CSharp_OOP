@@ -30,6 +30,17 @@ public class BitArray32
         this.number = nullified;
     }
 
+    public int this[int index]
+    {
+        get { return this.GetBit(index); }
+        set
+        {
+            this.SetBitAt(value, index);
+        }
+
+    }
+
+
     public int GetBit(int index)
     {
         if(index < 0 || index > 31)
@@ -39,5 +50,15 @@ public class BitArray32
         int bit = (this.number >> index) & 1;
         
         return bit;
+    }
+
+    public static BitArray32 operator +(BitArray32 a, BitArray32 b)
+    {
+        return new BitArray32(a.number + b.number);
+    }
+
+    public override string ToString()
+    {
+        return this.number.ToString();
     }
 } 
