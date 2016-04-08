@@ -1,0 +1,6 @@
+C:\Gogo'sFiles\C#\OOP\StaticMethods_And_Namespaces\BitArray\bin\Debug\BitArray.exe.config
+C:\Gogo'sFiles\C#\OOP\StaticMethods_And_Namespaces\BitArray\obj\Debug\BitArray.csprojResolveAssemblyReference.cache
+C:\Gogo'sFiles\C#\OOP\StaticMethods_And_Namespaces\BitArray\bin\Debug\BitArray.exe
+C:\Gogo'sFiles\C#\OOP\StaticMethods_And_Namespaces\BitArray\bin\Debug\BitArray.pdb
+C:\Gogo'sFiles\C#\OOP\StaticMethods_And_Namespaces\BitArray\obj\Debug\BitArray.exe
+C:\Gogo'sFiles\C#\OOP\StaticMethods_And_Namespaces\BitArray\obj\Debug\BitArray.pdb
