@@ -11,6 +11,8 @@ public static class DistanceCalculator
 
         double distance = Math.Sqrt(deltaX * deltaX + deltaY * deltaY + deltaZ * deltaZ);
 
+        Console.WriteLine(distance);
+
         return distance;
     }
 }

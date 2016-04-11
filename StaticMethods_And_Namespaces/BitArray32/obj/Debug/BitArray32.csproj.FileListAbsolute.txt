@@ -1,0 +1,1 @@
+C:\Gogo'sFiles\C#\OOP\StaticMethods_And_Namespaces\BitArray32\bin\Debug\BitArray32.exe.config
