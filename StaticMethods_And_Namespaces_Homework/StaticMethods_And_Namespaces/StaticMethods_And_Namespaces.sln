@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_1Point3D", "_1Point3D\_1Po
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_2DistanceBtwTwoPoints", "_2DistanceBtwTwoPoints\_2DistanceBtwTwoPoints.csproj", "{59C02019-C9AF-4747-8472-65A719781485}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_3Path3D", "_3Path3D\_3Path3D.csproj", "{94D57D9D-FABB-4D8B-AF7B-CF4052377B6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{59C02019-C9AF-4747-8472-65A719781485}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59C02019-C9AF-4747-8472-65A719781485}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59C02019-C9AF-4747-8472-65A719781485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94D57D9D-FABB-4D8B-AF7B-CF4052377B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D57D9D-FABB-4D8B-AF7B-CF4052377B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94D57D9D-FABB-4D8B-AF7B-CF4052377B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94D57D9D-FABB-4D8B-AF7B-CF4052377B6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
