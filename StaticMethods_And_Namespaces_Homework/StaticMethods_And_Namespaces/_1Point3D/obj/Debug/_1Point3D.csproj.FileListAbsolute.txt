@@ -1,1 +1,6 @@
 D:\Софтуерен Университет\OOP\CSharp_OOP\StaticMethods_And_Namespaces_Homework\StaticMethods_And_Namespaces\_1Point3D\bin\Debug\_1Point3D.exe.config
+D:\Софтуерен Университет\OOP\CSharp_OOP\StaticMethods_And_Namespaces_Homework\StaticMethods_And_Namespaces\_1Point3D\bin\Debug\_1Point3D.exe
+D:\Софтуерен Университет\OOP\CSharp_OOP\StaticMethods_And_Namespaces_Homework\StaticMethods_And_Namespaces\_1Point3D\bin\Debug\_1Point3D.pdb
+D:\Софтуерен Университет\OOP\CSharp_OOP\StaticMethods_And_Namespaces_Homework\StaticMethods_And_Namespaces\_1Point3D\obj\Debug\_1Point3D.csprojResolveAssemblyReference.cache
+D:\Софтуерен Университет\OOP\CSharp_OOP\StaticMethods_And_Namespaces_Homework\StaticMethods_And_Namespaces\_1Point3D\obj\Debug\_1Point3D.exe
+D:\Софтуерен Университет\OOP\CSharp_OOP\StaticMethods_And_Namespaces_Homework\StaticMethods_And_Namespaces\_1Point3D\obj\Debug\_1Point3D.pdb
