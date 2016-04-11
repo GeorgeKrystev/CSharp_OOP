@@ -18,7 +18,8 @@ namespace _3Path3D
             listOfPoints.Add(new Point3D(3, 65, 89));
 
             Path3D path = new Path3D(listOfPoints);
-            Console.WriteLine(path);
+            //Console.WriteLine(path);
+            Console.WriteLine(Path3D.CalcPathDistance(listOfPoints));
         }
     }
 }
