@@ -1,0 +1,6 @@
+C:\Gogo'sFiles\C#\OOP\ConsoleApplication1\_2LaptopShop\bin\Debug\_2LaptopShop.exe.config
+C:\Gogo'sFiles\C#\OOP\ConsoleApplication1\_2LaptopShop\bin\Debug\_2LaptopShop.exe
+C:\Gogo'sFiles\C#\OOP\ConsoleApplication1\_2LaptopShop\bin\Debug\_2LaptopShop.pdb
+C:\Gogo'sFiles\C#\OOP\ConsoleApplication1\_2LaptopShop\obj\Debug\_2LaptopShop.csprojResolveAssemblyReference.cache
+C:\Gogo'sFiles\C#\OOP\ConsoleApplication1\_2LaptopShop\obj\Debug\_2LaptopShop.exe
+C:\Gogo'sFiles\C#\OOP\ConsoleApplication1\_2LaptopShop\obj\Debug\_2LaptopShop.pdb

@@ -1,0 +1,6 @@
+C:\Gogo'sFiles\C#\OOP\ConsoleApplication1\_4SoftUni_Learning_Sys.cs\bin\Debug\_4SoftUni_Learning_Sys.cs.exe.config
+C:\Gogo'sFiles\C#\OOP\ConsoleApplication1\_4SoftUni_Learning_Sys.cs\obj\Debug\_4SoftUni_Learning_Sys.cs.csprojResolveAssemblyReference.cache
+C:\Gogo'sFiles\C#\OOP\ConsoleApplication1\_4SoftUni_Learning_Sys.cs\bin\Debug\_4SoftUni_Learning_Sys.cs.exe
+C:\Gogo'sFiles\C#\OOP\ConsoleApplication1\_4SoftUni_Learning_Sys.cs\bin\Debug\_4SoftUni_Learning_Sys.cs.pdb
+C:\Gogo'sFiles\C#\OOP\ConsoleApplication1\_4SoftUni_Learning_Sys.cs\obj\Debug\_4SoftUni_Learning_Sys.cs.exe
+C:\Gogo'sFiles\C#\OOP\ConsoleApplication1\_4SoftUni_Learning_Sys.cs\obj\Debug\_4SoftUni_Learning_Sys.cs.pdb
