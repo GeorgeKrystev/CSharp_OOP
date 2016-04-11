@@ -1,1 +1,0 @@
-C:\Gogo'sFiles\C#\OOP\StaticMethods_And_Namespaces\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
