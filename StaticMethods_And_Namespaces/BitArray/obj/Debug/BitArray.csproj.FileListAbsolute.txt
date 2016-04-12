@@ -10,9 +10,3 @@ C:\Gogo'sFiles\C#\CSharp_OOP_repo\CSharp_OOP\StaticMethods_And_Namespaces\BitArr
 C:\Gogo'sFiles\C#\CSharp_OOP_repo\CSharp_OOP\StaticMethods_And_Namespaces\BitArray\bin\Debug\BitArray.exe
 C:\Gogo'sFiles\C#\CSharp_OOP_repo\CSharp_OOP\StaticMethods_And_Namespaces\BitArray\bin\Debug\BitArray.pdb
 C:\Gogo'sFiles\C#\CSharp_OOP_repo\CSharp_OOP\StaticMethods_And_Namespaces\BitArray\obj\Debug\BitArray.csprojResolveAssemblyReference.cache
-D:\Софтуерен Университет\OOP\CSharp_OOP\StaticMethods_And_Namespaces\BitArray\bin\Debug\BitArray.exe.config
-D:\Софтуерен Университет\OOP\CSharp_OOP\StaticMethods_And_Namespaces\BitArray\obj\Debug\BitArray.exe
-D:\Софтуерен Университет\OOP\CSharp_OOP\StaticMethods_And_Namespaces\BitArray\obj\Debug\BitArray.pdb
-D:\Софтуерен Университет\OOP\CSharp_OOP\StaticMethods_And_Namespaces\BitArray\bin\Debug\BitArray.exe
-D:\Софтуерен Университет\OOP\CSharp_OOP\StaticMethods_And_Namespaces\BitArray\bin\Debug\BitArray.pdb
-D:\Софтуерен Университет\OOP\CSharp_OOP\StaticMethods_And_Namespaces\BitArray\obj\Debug\BitArray.csprojResolveAssemblyReference.cache

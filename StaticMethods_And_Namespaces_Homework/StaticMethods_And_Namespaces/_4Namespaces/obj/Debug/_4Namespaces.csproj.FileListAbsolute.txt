@@ -1,0 +1,6 @@
+C:\Gogo'sFiles\C#\CSharp_OOP_repo\CSharp_OOP\StaticMethods_And_Namespaces_Homework\StaticMethods_And_Namespaces\_4Namespaces\bin\Debug\_4Namespaces.exe.config
+C:\Gogo'sFiles\C#\CSharp_OOP_repo\CSharp_OOP\StaticMethods_And_Namespaces_Homework\StaticMethods_And_Namespaces\_4Namespaces\bin\Debug\_4Namespaces.exe
+C:\Gogo'sFiles\C#\CSharp_OOP_repo\CSharp_OOP\StaticMethods_And_Namespaces_Homework\StaticMethods_And_Namespaces\_4Namespaces\bin\Debug\_4Namespaces.pdb
+C:\Gogo'sFiles\C#\CSharp_OOP_repo\CSharp_OOP\StaticMethods_And_Namespaces_Homework\StaticMethods_And_Namespaces\_4Namespaces\obj\Debug\_4Namespaces.csprojResolveAssemblyReference.cache
+C:\Gogo'sFiles\C#\CSharp_OOP_repo\CSharp_OOP\StaticMethods_And_Namespaces_Homework\StaticMethods_And_Namespaces\_4Namespaces\obj\Debug\_4Namespaces.exe
+C:\Gogo'sFiles\C#\CSharp_OOP_repo\CSharp_OOP\StaticMethods_And_Namespaces_Homework\StaticMethods_And_Namespaces\_4Namespaces\obj\Debug\_4Namespaces.pdb

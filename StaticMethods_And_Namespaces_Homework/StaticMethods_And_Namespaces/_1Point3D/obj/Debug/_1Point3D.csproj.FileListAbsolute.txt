@@ -4,3 +4,9 @@ D:\Софтуерен Университет\OOP\CSharp_OOP\StaticMethods_And_Na
 D:\Софтуерен Университет\OOP\CSharp_OOP\StaticMethods_And_Namespaces_Homework\StaticMethods_And_Namespaces\_1Point3D\obj\Debug\_1Point3D.csprojResolveAssemblyReference.cache
 D:\Софтуерен Университет\OOP\CSharp_OOP\StaticMethods_And_Namespaces_Homework\StaticMethods_And_Namespaces\_1Point3D\obj\Debug\_1Point3D.exe
 D:\Софтуерен Университет\OOP\CSharp_OOP\StaticMethods_And_Namespaces_Homework\StaticMethods_And_Namespaces\_1Point3D\obj\Debug\_1Point3D.pdb
+C:\Gogo'sFiles\C#\CSharp_OOP_repo\CSharp_OOP\StaticMethods_And_Namespaces_Homework\StaticMethods_And_Namespaces\_1Point3D\bin\Debug\_1Point3D.exe.config
+C:\Gogo'sFiles\C#\CSharp_OOP_repo\CSharp_OOP\StaticMethods_And_Namespaces_Homework\StaticMethods_And_Namespaces\_1Point3D\obj\Debug\_1Point3D.exe
+C:\Gogo'sFiles\C#\CSharp_OOP_repo\CSharp_OOP\StaticMethods_And_Namespaces_Homework\StaticMethods_And_Namespaces\_1Point3D\obj\Debug\_1Point3D.pdb
+C:\Gogo'sFiles\C#\CSharp_OOP_repo\CSharp_OOP\StaticMethods_And_Namespaces_Homework\StaticMethods_And_Namespaces\_1Point3D\bin\Debug\_1Point3D.exe
+C:\Gogo'sFiles\C#\CSharp_OOP_repo\CSharp_OOP\StaticMethods_And_Namespaces_Homework\StaticMethods_And_Namespaces\_1Point3D\bin\Debug\_1Point3D.pdb
+C:\Gogo'sFiles\C#\CSharp_OOP_repo\CSharp_OOP\StaticMethods_And_Namespaces_Homework\StaticMethods_And_Namespaces\_1Point3D\obj\Debug\_1Point3D.csprojResolveAssemblyReference.cache

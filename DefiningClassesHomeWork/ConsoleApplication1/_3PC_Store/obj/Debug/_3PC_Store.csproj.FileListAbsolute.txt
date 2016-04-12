@@ -1,0 +1,6 @@
+C:\Gogo'sFiles\C#\OOP\ConsoleApplication1\_3PC_Store\bin\Debug\_3PC_Store.exe.config
+C:\Gogo'sFiles\C#\OOP\ConsoleApplication1\_3PC_Store\obj\Debug\_3PC_Store.csprojResolveAssemblyReference.cache
+C:\Gogo'sFiles\C#\OOP\ConsoleApplication1\_3PC_Store\bin\Debug\_3PC_Store.exe
+C:\Gogo'sFiles\C#\OOP\ConsoleApplication1\_3PC_Store\bin\Debug\_3PC_Store.pdb
+C:\Gogo'sFiles\C#\OOP\ConsoleApplication1\_3PC_Store\obj\Debug\_3PC_Store.exe
+C:\Gogo'sFiles\C#\OOP\ConsoleApplication1\_3PC_Store\obj\Debug\_3PC_Store.pdb
